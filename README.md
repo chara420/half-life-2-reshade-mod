@@ -12,6 +12,8 @@ Este preset de reshade pretende dar un lavado de cara al clásico juego de valve
     v0.1: Creación y publicación, futuros bugs y errores serán corregidos
 ```
 ## Screenshots
+> Beta V0.1
+
 ![1](images/1.jpg)
 ![2](images/2.jpg)
 ![3](images/3.jpg)
@@ -19,7 +21,7 @@ Este preset de reshade pretende dar un lavado de cara al clásico juego de valve
 
 ## Instalación
 
-Primero que nada hay que tener (reshade)[https://reshade.me] y todas sus librerías(se descargan automáticamente cuando se instala el programa), la instalación es tan sencilla como abrir el instalar y localizar el juego por defecto ```C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2``` luego de instalar ir ala carpeta bin y pegar los archivos del repositorio. Al iniciar el juego tendría que cargar de manera automática el preset. Y a disfrutar!
+Primero que nada hay que tener [reshade](https://reshade.me] y todas sus librerías(se descargan automáticamente cuando se instala el programa), la instalación es tan sencilla como abrir el instalar y localizar el juego por defecto ```C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2``` luego de instalar ir ala carpeta bin y pegar los archivos del repositorio. Al iniciar el juego tendría que cargar de manera automática el preset. Y a disfrutar!
 
 ## Contacto y dudas
 
